@@ -1,4 +1,4 @@
-# Ludologist(게임학자)
+# A Ludologist(게임학자)
 
 ## 포트폴리오 요약
 ---
