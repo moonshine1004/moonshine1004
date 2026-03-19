@@ -3,7 +3,7 @@
 ---
 ## 포트폴리오 요약
 
-### 1. Project.Arcana [[GithubLink]](https://github.com/moonshine1004/Project.Arcana)
+### 1. Project.Arcana [[GitHubLink]](https://github.com/moonshine1004/Project.Arcana)
 #### 본 프로젝트는 2D 던전게임과 실시간 카드 게임을 합친다는 컨셉을 바탕으로, 플레이어가 덱을 구성하여 실시간 전투를 통해 몰입할 수 있도록 제작되었습니다.
 #### 프로젝트 요약
 - 플랫폼: Windows
@@ -21,9 +21,9 @@
 
 ---
 
-### 2. StairCase [[GithubLink]](https://github.com/moonshine1004/26.01_SBS_TeamProject)
+### 2. StairCase [[GitHubLink]](https://github.com/moonshine1004/26.01_SBS_TeamProject)
 #### 본 프로젝트는 SBS 게임 아카데미 학원의 2026년 겨울 방학 팀 프로젝트로 제작된 '무한의 게임' 모작 게임으로, 불타는 빌딩에서 제한 시간 안에 아래층으로 탈출하는 하이퍼 캐주얼 타임어택 아케이드 게임입니다. 
-프로젝트 요약
+#### 프로젝트 요약
 - 플랫폼: Android
 - 엔진: Unity 6 (6000.2.12.f1)(URP)
 - 개발 기간: 2026.01 ~ 진행 중
@@ -33,3 +33,5 @@
 
 ---
 
+### 3. PolarLess [[GitHubLink]] (https://github.com/moonshine1004/Polar-Less)
+#### 본 프로젝트는 2026학년도 1학기 광운대학교 게임종합동아리에서 진행한 게임 제작 프로젝트로, 빛의 입사/반사를 이용해 빛을 목표 지점까지 도달시키는 퍼즐 게임입니다.
