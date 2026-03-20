@@ -33,5 +33,5 @@
 
 ---
 
-### 3. PolarLess [[GitHubLink]] (https://github.com/moonshine1004/Polar-Less)
+### 3. PolarLess [[GitHubLink]](https://github.com/moonshine1004/Polar-Less)
 #### 본 프로젝트는 2026학년도 1학기 광운대학교 게임종합동아리에서 진행한 게임 제작 프로젝트로, 빛의 입사/반사를 이용해 빛을 목표 지점까지 도달시키는 퍼즐 게임입니다.
